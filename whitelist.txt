@@ -1,1 +1,14 @@
+# Lufthansa
+# ==========================
+@@||*.lufthansa.de^
+@@||*.lufthansa.com^
+@@||*.lufthansa-technology.com^
+@@||*.lufthansagroup.com^
+@@||*.lufthansa.com:*
 
+
+# Weitere
+# ==========================
+@@||*.synology.com^
+@@||*.chatgpt.com^
+@@||*.businessinsider.de^
