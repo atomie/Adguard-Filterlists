@@ -1,0 +1,23 @@
+# LG Television
+# ========================== #
+aic.recommend.lgtvcommon.com
+aic.sports.lgtviot.com
+aic.homeprv.lgtvcommon.com
+aic.lgtviot.com
+us.emp.lgsmartplatform.com
+us.lgeapi.com
+aic.nudge.lgtvcommon.com
+aic-gfts.lge.com
+aic-op-lss.lgthinq.com
+lss.lgthinq.com
+aic.api.lgtviot.com
+common.lgthinq.com
+qt2-ngfts.lge.com
+aic.wiseconfig.lgtvcommon.com
+aic-ngfts.lge.com
+ngfts.lge.com
+lgtvonline.lge.com
+snu.lge.com
+aic.rdl.lgtvcommon.com
+us.ibs.lgappstv.com
+us.rdx2.lgtvsdp.com
