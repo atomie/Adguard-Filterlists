@@ -1,3 +1,13 @@
+# Allgemein
+# ========================== #
+*.link
+*.top
+polyfill.io
+bootcdn.net
+bootcss.com
+staticfile.net
+staticfile.org
+
 # LG Television
 # ========================== #
 aic.recommend.lgtvcommon.com
@@ -22,12 +32,4 @@ aic.rdl.lgtvcommon.com
 us.ibs.lgappstv.com
 us.rdx2.lgtvsdp.com
 
-# Weitere Domains
-# ========================== #
-*.link
-*.top
-polyfill.io
-bootcdn.net
-bootcss.com
-staticfile.net
-staticfile.org
+
