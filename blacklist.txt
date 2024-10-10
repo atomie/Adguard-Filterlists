@@ -21,3 +21,13 @@ snu.lge.com
 aic.rdl.lgtvcommon.com
 us.ibs.lgappstv.com
 us.rdx2.lgtvsdp.com
+
+# Weitere Domains
+# ========================== #
+*.link
+*.top
+polyfill.io
+bootcdn.net
+bootcss.com
+staticfile.net
+staticfile.org
