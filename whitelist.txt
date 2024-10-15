@@ -1,10 +1,9 @@
 # Lufthansa
 # ==========================
-@@||*.lufthansa.de^
-@@||*.lufthansa.com^
-@@||*.lufthansa-technology.com^
-@@||*.lufthansagroup.com^
-@@||*.lufthansa.com:*
+@@||*.lufthansa.^
+@@||*lufthansa-technology.com^
+@@||*lufthansagroup.com^
+@@||lufthansa.com:*
 
 
 # Weitere
