@@ -10,5 +10,6 @@
 # ==========================
 @@||*.synology.com^
 @@||*.chatgpt.com^
+@@||*.chat.openai.com^
 @@||*.businessinsider.de^
 @@||*.i-soms.com^
