@@ -11,3 +11,4 @@
 @@||*.synology.com^
 @@||*.chatgpt.com^
 @@||*.businessinsider.de^
+@@||*.i-soms.com^
