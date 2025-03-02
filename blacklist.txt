@@ -11,8 +11,23 @@ hotjar.com
 *.hotjar.com
 hotjar.io
 *.hotjar.io
-
-
+bugsnag.com
+*.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+storage.bugsnag.com
+errors.bugsnag.com
+sentry.io
+*.sentry.io
+sentry-cdn.com
+*.sentry-cdn.com
+o0.ingest.sentry.io
+o1.ingest.sentry.io
+ingest.sentry.io
+browser.sentry-cdn.com
+app.getsentry.com
 
 # LG Television
 # ========================== #
@@ -37,5 +52,3 @@ snu.lge.com
 aic.rdl.lgtvcommon.com
 us.ibs.lgappstv.com
 us.rdx2.lgtvsdp.com
-
-
