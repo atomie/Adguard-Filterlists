@@ -7,6 +7,11 @@ bootcdn.net
 bootcss.com
 staticfile.net
 staticfile.org
+hotjar.com
+*.hotjar.com
+hotjar.io
+*.hotjar.io
+
 
 # LG Television
 # ========================== #
